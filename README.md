@@ -124,36 +124,36 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/b602341e-68cc-40ca-bed8-4b8d568140b2" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <video src=" " controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/74e6367f-e2c1-426e-84f5-a2e153923d25" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/ca48529d-fb63-4c13-88a1-5d83bd9ac18f" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/83583724-c04d-44e4-94dc-d25422edad05" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/50afe497-55b6-47b2-94ad-ba6b9f81927d" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/02ade966-b030-4df6-b960-24fbbdb447d1" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
