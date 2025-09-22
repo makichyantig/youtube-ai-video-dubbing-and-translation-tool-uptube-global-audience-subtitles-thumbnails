@@ -99,19 +99,19 @@ Whether you're a **creator, educator, or business**, Uptube makes it easy to con
     <tbody>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/3b501e4a-06e5-4f34-a513-6d2718365c71" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/0df4f413-1fc9-416a-bf51-43ecd4a16048" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src=" " controls preload>
+                <video src="https://github.com/user-attachments/assets/a49344ec-ba1a-48d5-aa2c-ec710cb33884" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
